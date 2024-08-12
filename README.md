@@ -18,8 +18,7 @@ The scraper allows you to log in to Instagram, scrape posts, comments, and other
 ## Installation
 
 1. **Clone the Repository**
-
-- bash \n
-   git clone https://github.com/rishi0w0/scrape.git \n
+   ```bash 
+   git clone https://github.com/rishi0w0/scrape.git 
    cd scrape
    
