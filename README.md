@@ -19,7 +19,7 @@ The scraper allows you to log in to Instagram, scrape posts, comments, and other
 
 1. **Clone the Repository**
 
-- bash
-   git clone https://github.com/rishi0w0/scrape.git .
+- bash \n
+   git clone https://github.com/rishi0w0/scrape.git \n
    cd scrape
    
