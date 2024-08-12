@@ -1,6 +1,7 @@
 # Instagram Scraper with GUI
 
-This project is an Instagram scraper tool with a graphical user interface (GUI) built using Python's `tkinter` and `Instaloader` libraries. The scraper allows you to log in to Instagram, scrape posts, comments, and other profile details, and save them to your local machine.
+This project is an Instagram scraper tool with a graphical user interface (GUI) built using Python's `tkinter` and `Instaloader` libraries. 
+The scraper allows you to log in to Instagram, scrape posts, comments, and other profile details, and save them to your local machine.
 
 ## Features
 
@@ -18,6 +19,7 @@ This project is an Instagram scraper tool with a graphical user interface (GUI) 
 
 1. **Clone the Repository**
 
-   bash
+-bash
    git clone https://github.com/rishi0w0/scrape.git
-   cd instagram-scraper-gui
+   cd scrape
+   
