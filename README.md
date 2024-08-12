@@ -19,5 +19,5 @@ This project is an Instagram scraper tool with a graphical user interface (GUI) 
 1. **Clone the Repository**
 
    bash
-   git clone https://github.com/yourusername/instagram-scraper-gui.git
+   git clone https://github.com/rishi0w0/instagram-scraper-gui.git
    cd instagram-scraper-gui
