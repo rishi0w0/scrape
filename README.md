@@ -13,6 +13,9 @@ The scraper allows you to log in to Instagram, scrape posts, comments, and other
 ## Prerequisites
 
 - Python 3.7 or above.
+- instaloader==4.9.6
+- pillow==9.0.1
+- tkinter
 - An Instagram account.
 
 ## Installation
