@@ -27,7 +27,7 @@ Usage
 
 1. Clone the repository and navigate to the project directory.
 2. Install the required packages using `pip install -r requirements.txt`.
-3. Run the app using `python instagram_scraper_app.py`.
+3. Run the app using `python scrape.py`.
 4. Enter the target Instagram profile, your Instagram username and password, and the start and end dates for scraping.
 5. Click the "Scrape" button to start the scraping process.
 6. The app will save the scraped data to a JSON file and display the progress in the GUI.
@@ -39,12 +39,4 @@ Note
 * Instagram's terms of service prohibit scraping, and using this app may result in your account being banned.
 * Use at your own risk.
 
-License
--------
 
-This project is licensed under the MIT License. See `LICENSE` for details.
-
-Author
-------
-
-[Your Name]
