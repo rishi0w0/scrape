@@ -1,4 +1,9 @@
-instaloader==4.9.6
-pillow==9.0.1
 tkinter
-
+tkcalendar
+instaloader
+json
+os
+random
+time
+threading
+signal
